@@ -6,10 +6,10 @@
 ประกาศผลการแข่งขันภาษาญี่ปุ่นรอบเพชรยอดมงกุฎ ครั้งที่ 10 การศึกษา 2558  
 รยา #1 เหรียญทอง [click](./japanese_petchyodmongkut/cert_jp_pech_raya_gold2015.pdf)    
 <p align="center">
-  <img src="./raya_10_stage.jpg" width="200" title="on stage">
+  <img src="./japanese_petchyodmongkut/raya_10_stage.jpg" width="200" title="on stage">
 </p>
 <p align="center">
-  <img src="./raya_10_group.jpg" width="200" title="on group">
+  <img src="./japanese_petchyodmongkut/raya_10_group.jpg" width="200" title="on group">
 </p>  
 
 ประกาศผลการแข่งขันภาษาญี่ปุ่นรอบเพชรยอดมงกุฎ ครั้งที่ 11 การศึกษา 2559  
